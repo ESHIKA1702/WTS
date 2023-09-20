@@ -1,0 +1,294 @@
+.website-plan-section {
+  background: url(../img/smile-bg-1.png) no-repeat center -25px;
+  padding-top: 145px;
+  padding-bottom: 85px;
+  text-align: center;
+}
+.website-plan-section h2 {
+  color: #3e3d4e;
+  font-weight: 900;
+  font-family: "Poppins", sans-serif;
+  font-size: 36px;
+  text-align: center;
+  margin-top: 0;
+  margin-bottom: 35px;
+}
+.web-plan-box {
+  background: #fff;
+  border: 1px solid #dfdfdf;
+  padding: 50px 25px 50px;
+  margin: 15px 0;
+  color: #222;
+  font-family: "Poppins", sans-serif;
+  font-weight: 300;
+  font-size: 18px;
+  position: relative;
+  overflow: hidden;
+}
+.web-plan-box img {
+  max-width: 202px;
+  margin: 0 auto;
+  border-radius: 100%;
+}
+.web-plan-box h3 {
+  color: #3e3d4e;
+  font-weight: 700;
+  font-family: "Poppins", sans-serif;
+  font-size: 30px;
+  text-align: center;
+  margin: 25px auto;
+}
+.web-plan-box h4 {
+  color: #1bbdb0;
+  font-size: 48px;
+  font-family: "Poppins", sans-serif;
+  font-weight: 500;
+}
+.web-plan-box h4 span {
+  color: #222222;
+  font-size: 16px;
+}
+.web-price-box {
+  position: relative;
+  min-height: 125px;
+}
+.web-price-box:before {
+  content: "";
+  display: block;
+  border-bottom: 1px solid #dfdfdf;
+  width: 220px;
+  margin: 20px auto;
+}
+.seo-plan-box h4 {
+  font-size: 30px;
+  font-family: "Poppins", sans-serif;
+  font-weight: bold;
+  color: #222;
+  min-height: 72px;
+  display: inline-flex;
+  vertical-align: middle;
+  align-content: center;
+  align-items: center;
+}
+.seo-price-box {
+  width: 205px;
+  height: 205px;
+  background: #eaf9f8;
+  border-radius: 100%;
+  margin: 0px auto 30px;
+  display: block;
+  padding: 58px 15px;
+  text-align: center;
+}
+.seo-plan-section .seo-price-box h3 b {
+  font-family: "Poppins", sans-serif;
+  font-weight: 800;
+}
+.seo-plan-section .seo-price-box h3 {
+  color: #1bbdb0;
+  font-size: 30px;
+  font-weight: 600;
+  font-family: "Poppins", sans-serif;
+  text-transform: uppercase;
+}
+.seo-plan-section .seo-price-box h3 span {
+  font-size: 16;
+  font-family: "Poppins", sans-serif;
+  font-weight: 500;
+  color: #222;
+  display: block;
+  text-transform: none;
+}
+a.seoquote {
+  font-weight: 700;
+  font-family: "Poppins", sans-serif;
+  background: #f19830;
+  color: #fff;
+  display: inline-block;
+  text-align: center;
+  font-size: 16px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 15px;
+  border-radius: 60px;
+  padding: 5px 30px;
+  text-transform: uppercase;
+  border: 2px solid #f19830;
+}
+a.seoquote:hover {
+  background: transparent;
+  border: 2px solid #f19830;
+  color: #f19830;
+}
+/* SEO Pricing */
+.SEOPricing {
+  background: #fdfcfc;
+  padding: 100px 0;
+  clear: both;
+}
+.SEOPricing h3 {
+  color: #222222;
+  font-weight: 900;
+  font-family: "Poppins", sans-serif;
+  font-size: 36px;
+}
+.SEOPricing-content {
+  font-size: 19px;
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+}
+/* SEO Pricing */
+.onsiteseo-wrap {
+  background: #f7f7f7;
+  padding: 100px 0;
+  clear: both;
+}
+.onsiteseo-wrap h2 {
+  color: #3e3d4e;
+  font-weight: 900;
+  font-family: "Poppins", sans-serif;
+  font-size: 36px;
+  text-align: center;
+}
+#accordion-container {
+  font-size: 16px;
+  background: transparent;
+  padding: 30px 0;
+  font-family: "Poppins", sans-serif;
+  font-weight: 300;
+}
+.accordion-row {
+  border-top: 1px solid #707070;
+  padding: 15px 0;
+  clear: both;
+}
+.accordion-row:last-child {
+  border-bottom: 1px solid #707070;
+}
+.onsiteseo .accordion-header {
+  font-family: "Poppins", sans-serif;
+  font-size: 24px;
+  margin: 0;
+  padding: 10px 0;
+  cursor: pointer;
+  color: #3e3d4e;
+  background: url(../img/seo-up-arrow.png) no-repeat 98% 20px transparent;
+}
+.onsiteseo .accordion-header.inactive-header {
+  background: url(../img/seo-dn-arrow.png) no-repeat 98% 20px transparent;
+}
+.onsiteseo .accordion-content {
+  background: transparent;
+  border: none;
+  border-radius: unset;
+  padding: 0;
+}
+/* Steal web and marketing tips */
+.marketingtips {
+  background: url(../img/marketing-tips-bg.webp) no-repeat left top #fafafa;
+  padding: 53px 0;
+  clear: both;
+}
+.marketingtips .SEOPricing-content {
+  padding-top: 70px;
+}
+.SEOPricing-content a {
+  color: #222;
+  font-family: "Poppins", sans-serif;
+  text-decoration: underline;
+}
+/* Video Section */
+.video-section {
+  background: url(../img/smile-bg-1.png) no-repeat center -25px;
+  padding: 135px 0 105px;
+  text-align: center;
+}
+.video-section h2 {
+  color: #3e3d4e;
+  font-weight: 900;
+  font-family: "Poppins", sans-serif;
+  font-size: 27px;
+  text-align: center;
+  text-transform: uppercase;
+  margin-bottom: 25px;
+}
+.video-container {
+  overflow: hidden;
+  position: relative;
+  width: 100%;
+}
+.video-container::after {
+  padding-top: 56.25%;
+  display: block;
+  content: "";
+}
+.video-container iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+@media (max-width: 991px) {
+  .web-plan-box h3 {
+    font-size: 26px;
+  }
+  .seo_reviews .bookacallbtn a.gquote {
+    font-size: 16px;
+  }
+  .video-section {
+    padding: 135px 0 55px;
+  }
+}
+@media (min-width: 992px) {
+  .website-plan-section h2 {
+    font-size: 62px;
+    margin-bottom: 85px;
+  }
+  .web-plan-box.web-plan-popular {
+    border-top: 1px solid #50cdc3;
+  }
+  .onsiteseo-wrap h2 {
+    font-size: 48px;
+  }
+  .web-plan-box {
+    min-height: 867px;
+  }
+  .web-price-box {
+    position: relative;
+    min-height: 260px;
+  }
+  .video-section h2 {
+    font-size: 48px;
+    margin-bottom: 40px;
+  }
+  .video-section h2 span {
+    display: block;
+  }
+  .SEOPricing h3 {
+    font-size: 48px;
+    margin-top: 45px;
+  }
+  .SEOPricing-img {
+    padding-left: 35px;
+  }
+  .marketingtips .SEOPricing-img {
+    text-align: right;
+  }
+  .marketingtips .SEOPricing-img img {
+    display: inline-block;
+  }
+  #block-views-our-clients-block-1 h2 b {
+    display: inline-block;
+  }
+  .content_below.handtio {
+    background: #f0f0f1;
+    padding: 40px 0 35px;
+  }
+}
+@media (min-width: 1200px) {
+  .web-plan-box.web-plan-popular {
+    margin-top: -40px;
+    border-top: 5px solid #50cdc3;
+  }
+}

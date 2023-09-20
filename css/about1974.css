@@ -1,0 +1,296 @@
+.aboutcompany {
+  background: url(../img/smile-bg-1.png) no-repeat center -25px;
+  padding-top: 165px;
+  padding-bottom: 85px;
+}
+.aboutcompany h2 {
+  color: #50ccc3;
+  font-weight: 900;
+  font-family: "Poppins", sans-serif;
+  font-weight: 900;
+  font-size: 36px;
+  margin-bottom: 15px;
+}
+.aboutcompany-content {
+  font-size: 19px;
+  font-family: "Poppins", sans-Serif;
+  font-weight: 400;
+}
+a.seoquote {
+  font-weight: 700;
+  font-family: "Poppins-Bold";
+  background: #f19830;
+  color: #fff;
+  display: inline-block;
+  text-align: center;
+  font-size: 16px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 15px;
+  border-radius: 60px;
+  padding: 5px 30px;
+  text-transform: uppercase;
+  border: 2px solid #f19830;
+}
+a.seoquote:hover {
+  background: transparent;
+  border: 2px solid #f19830;
+  color: #f19830;
+}
+/* SEO Pricing */
+.SEOPricing {
+  background: #fdfcfc;
+  padding: 100px 0;
+  clear: both;
+}
+.SEOPricing h3 {
+  color: #222222;
+  font-weight: 900;
+  font-family: "Poppins", sans-serif;
+  font-weight: 900;
+  font-size: 36px;
+}
+.SEOPricing-content {
+  font-size: 19px;
+  font-family: "Poppins", sans-Serif;
+  font-weight: 400;
+  padding-top: 35px;
+}
+.SEOPricing-content a {
+  color: #222;
+  font-family: "Poppins", sans-serif;
+  font-weight: 500;
+  text-decoration: underline;
+}
+/* SEO Pricing */
+.onsiteseo-wrap {
+  background: #f7f7f7;
+  padding: 100px 0;
+  clear: both;
+}
+.onsiteseo-wrap h2 {
+  color: #3e3d4e;
+  font-weight: 900;
+  font-family: "Poppins", sans-serif;
+  font-weight: 900;
+  font-size: 36px;
+  text-align: center;
+}
+#accordion-container {
+  font-size: 16px;
+  background: transparent;
+  padding: 30px 0;
+  font-family: Poppins-Light;
+  font-weight: 300;
+}
+.accordion-row {
+  border-top: 1px solid #707070;
+  padding: 15px 0;
+  clear: both;
+}
+.accordion-row:last-child {
+  border-bottom: 1px solid #707070;
+}
+.onsiteseo .accordion-header {
+  font-family: "Poppins", sans-serif;
+  font-weight: 500;
+  font-size: 24px;
+  margin: 0;
+  padding: 10px 0;
+  cursor: pointer;
+  color: #3e3d4e;
+  background: url(../img/seo-up-arrow.png) no-repeat 98% 20px transparent;
+}
+.onsiteseo .accordion-header.inactive-header {
+  background: url(../img/seo-dn-arrow.png) no-repeat 98% 20px transparent;
+}
+.onsiteseo .accordion-content {
+  background: transparent;
+  border: none;
+  border-radius: unset;
+  padding: 0;
+}
+/* Owners sections */
+.owners-section {
+  background: url(../img/owners-sec.webp) no-repeat left top #fafafa;
+  padding: 60px 0 40px;
+  clear: both;
+  background-size: cover;
+}
+.owners-section h2 {
+  color: #3e3d4e;
+  font-weight: 900;
+  font-family: "Poppins", sans-serif;
+  font-weight: 900;
+  font-size: 32px;
+  text-align: center;
+  text-transform: uppercase;
+}
+.owners-section .block-head {
+  font-family: "Poppins", sans-Serif;
+  font-weight: 400;
+  font-size: 19px;
+  display: block;
+  margin-bottom: 42px;
+  max-width: 862px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+.owner-des img {
+  display: inline-block;
+}
+.owner-des {
+  font-family: "Poppins", sans-Serif;
+  font-weight: 400;
+  font-size: 16px;
+  position: relative;
+  text-align: center;
+  padding-bottom: 30px;
+}
+.owner-des h4 {
+  font-family: "Poppins", sans-serif;
+  font-weight: 700;
+  font-weight: 600;
+  font-size: 20px;
+  margin-top: 20px;
+}
+/* Steal web and marketing tips */
+.marketingtips {
+  background: #fff;
+  padding: 80px 0;
+  clear: both;
+}
+.about-section {
+  background: url(../img/about-us-main-bg-2.html) no-repeat left top #fafafa;
+  background-size: auto;
+  padding: 0;
+  clear: both;
+  background-size: 51%;
+}
+.col-lg-6.p-0 {
+  padding: 0;
+}
+.about-content {
+  padding: 7%;
+  text-align: center;
+  font-family: "Poppins", sans-Serif;
+  font-weight: 400;
+  font-size: 19px;
+}
+.about-content h2 {
+  color: #3e3d4e;
+  font-weight: 900;
+  font-family: "Poppins", sans-serif;
+  font-weight: 900;
+  font-size: 27px;
+  text-align: center;
+  text-transform: uppercase;
+  margin-bottom: 25px;
+}
+/* Video Section */
+.video-section {
+  background: url(../img/smile-bg-1.png) no-repeat center -25px;
+  padding: 135px 0 105px;
+  text-align: center;
+}
+.video-section h2 {
+  color: #3e3d4e;
+  font-weight: 900;
+  font-family: "Poppins", sans-serif;
+  font-weight: 900;
+  font-size: 27px;
+  text-align: center;
+  text-transform: uppercase;
+  margin-bottom: 25px;
+}
+.video-container {
+  overflow: hidden;
+  position: relative;
+  width: 100%;
+}
+.video-container::after {
+  padding-top: 56.25%;
+  display: block;
+  content: "";
+}
+.video-container iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+@media (max-width: 768px) {
+  .aboutcompany {
+    text-align: center;
+  }
+  .marketingtips {
+    text-align: center;
+    padding: 60px 0;
+  }
+}
+@media (max-width: 991px) {
+  .web-plan-box h3 {
+    font-size: 26px;
+  }
+  .seo_reviews .bookacallbtn a.gquote {
+    font-size: 16px;
+  }
+  .video-section {
+    padding: 135px 0 55px;
+  }
+}
+@media (min-width: 992px) {
+  .aboutcompany h2 {
+    font-size: 63px;
+  }
+  .about-content {
+    padding: 5% 15% 0 20%;
+    text-align: left;
+  }
+  .about-content h2 {
+    font-size: 48px;
+    text-align: left;
+  }
+  .owners-section h2 {
+    font-size: 48px;
+  }
+  .marketingtips .SEOPricing-content {
+    padding-top: 150px;
+    padding-left: 15px;
+  }
+  .video-section h2 {
+    font-size: 48px;
+    margin-bottom: 40px;
+  }
+  .video-section h2 span {
+    display: block;
+  }
+  .SEOPricing h3 {
+    font-size: 48px;
+    margin-top: 45px;
+  }
+  .SEOPricing-img {
+    padding-left: 35px;
+  }
+  .marketingtips .SEOPricing-img {
+    text-align: right;
+  }
+  .marketingtips .SEOPricing-img img {
+    display: inline-block;
+  }
+  #block-views-our-clients-block-1 h2 b {
+    display: inline-block;
+  }
+  .content_below.handtio {
+    background: #f0f0f1;
+    padding: 40px 0 35px;
+  }
+}
+@media (min-width: 1200px) {
+  .web-plan-box.web-plan-popular {
+    margin-top: -40px;
+    border-top: 5px solid #50cdc3;
+  }
+}
